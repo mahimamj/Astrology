@@ -17,6 +17,7 @@
   padding-top: 19px;
   padding-bottom: 19px;
   color: white;
+  margin: 0;
 }
 .bigdiv{
   padding-bottom: 40px;
@@ -29,7 +30,6 @@
   background-color: black;
   display: flex;
   justify-content: center;
-  
 }
 .content {
   display: inline-block;
@@ -79,16 +79,20 @@
   font-weight: bold;
   font-size: 24px;
   line-height: 1.5;
+  margin: 0;
+  padding: 0;
 }
 #head2{
   display: inline-block;
   font-size: 18px ;
   font-family: "Montserrat", Sans-serif;
-    font-weight: 600;
-    font-style: italic;
-    line-height: 29px;
-    text-align: left;
+  font-weight: 600;
+  font-style: italic;
+  line-height: 29px;
+  text-align: left;
   color: brown;
+  margin: 0;
+  padding: 0;
   /* color: #e0e0e0; */
 }
 
