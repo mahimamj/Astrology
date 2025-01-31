@@ -17,6 +17,8 @@
     width: 850px;
     height: 640px;
     gap: 20px;
+    padding-top: 0;
+    margin: 0;
 }
 #inner-third span{
     color: #FFE7A9;
@@ -111,4 +113,12 @@
     display: inline-block;
     width: 410px;
     position: absolute;
+}
+#limited-seat-3{
+    color: white;
+    margin: 0;
+    font-family: "Mukta", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 0;
 }
